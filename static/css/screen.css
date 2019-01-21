@@ -1,0 +1,30 @@
+.jumbotron {
+  /* background-color: white; */
+  background-image: url("../images/clouds.jpg");
+  height: 350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron h1{
+  font-family: 'Spicy Rice', cursive;
+  font-style: bold;
+  color: #FF5D73;
+  font-size: 70px;
+  text-decoration: underline;
+}
+.jumbotron h2{
+  font-family: 'Spicy Rice', cursive;
+  /* font-style: bold; */
+  font-size: 20px;
+  color: #FF5D73;
+}
+#content h3 {
+  font-family: 'Spicy Rice', cursive;
+  color:  #FF5D73;
+  font-size: 40px;
+}
+#content p {
+  font-family: 'Fjalla One'; sans-serif;
+  font-size: 18px;
+  color: #343a40;
+}
