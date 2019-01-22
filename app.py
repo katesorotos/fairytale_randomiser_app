@@ -18,6 +18,7 @@ def index():
     gender = ["girl", "boy"]
     random_gender = randint(0, len(gender) - 1)
     gender = gender[random_gender]
+    
     if gender == 'girl':
         pronoun = 'she'
         pronoun_1 = 'She'
